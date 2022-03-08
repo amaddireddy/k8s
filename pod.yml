@@ -8,6 +8,6 @@ metadata:
 spec:
   containers: 
   - name: myapp
-    image: amaddireddy/newimage:v1
+    image: amaddireddy/newimage:v3
     ports:
       - containerPort: 80  
